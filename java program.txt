@@ -1,0 +1,8 @@
+importjava.io.*;
+class hello
+{
+public static void main string([String args])
+{
+system.out.println("my new program")
+}
+}
